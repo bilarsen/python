@@ -1,5 +1,5 @@
 """
-Game "Words with a compute"
+Game "Words with a computer"
 author: cypherman
 problem set 3 from MIT's course 6.0001
 """
